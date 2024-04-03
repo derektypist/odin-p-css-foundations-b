@@ -22,4 +22,22 @@ Practice adding ID or Class attributes to several elements.
 
 8.  As a user, I expect the `font-size` of the fourth element to be set with a `class` attribute.  The `font-weight` and the color should be set with an `id` attribute.
 
+## Technologies
+
+Uses HTML5 and CSS3.
+
+## Testing
+
+Make sure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/odin-p-css-foundations-b/) at the main branch.
+
+## Credits
+
+### Acknowledgements
+
+[FreeCodeCamp](https://www.freecodecamp.org/)
+
 
