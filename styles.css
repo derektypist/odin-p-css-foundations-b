@@ -1,0 +1,24 @@
+/* Classes */
+.firstparagraph, .secondparagraph, .thirdparagraph{
+  background-color: yellow;
+}
+
+.secondparagraph {
+  
+font-size: 24px;
+}
+
+.myfontsize {
+  font-size: 24px;
+}
+
+/* IDs */
+#firstdiv {
+  color: blue;
+  font-size: 36px;
+}
+
+#seconddiv {
+  background-color: red;
+  font-weight: bold;
+}
